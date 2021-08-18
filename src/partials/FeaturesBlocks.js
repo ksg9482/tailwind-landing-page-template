@@ -13,8 +13,8 @@ function FeaturesBlocks() {
 
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
-            <h2 className="h2 mb-4">How Simple works</h2>
-            <p className="text-xl text-gray-600">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur excepteur sint occaecat cupidatat.</p>
+            <h2 className="h2 mb-4">간략한 기능 소개</h2>
+            <p className="text-xl text-gray-600">저희가 제공하는 간단하지만 강력한 기능을 소개합니다. 이 기능을 통해 취미부터 업무까지 넓은 범위를 지원합니다.</p>
           </div>
 
           {/* Items */}
