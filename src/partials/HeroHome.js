@@ -32,7 +32,7 @@ function HeroHome() {
 
           {/* Section header */}
           <div className="text-center pb-12 md:pb-16">
-            <h1 className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4" data-aos="zoom-y-out">당신의 웹사이트를 만들어보세요 <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">wonderful</span></h1>
+            <h1 className="text-5xl md:text-6xl font-extrabold leading-tighter tracking-tighter mb-4" data-aos="zoom-y-out">당신의 <span className="bg-clip-text text-transparent bg-gradient-to-r from-blue-500 to-teal-400">환상적인</span> 웹사이트를 만들어보세요 </h1>
             <div className="max-w-3xl mx-auto">
               <p className="text-xl text-gray-600 mb-8" data-aos="zoom-y-out" data-aos-delay="150">우리의 랜딩 페이지 템플릿은 모든 기기에서 작동하고, 한번의 설정으로 그 아름다운 결과를 유지할 수 있습니다.</p>
               <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center" data-aos="zoom-y-out" data-aos-delay="300">
